@@ -4,7 +4,9 @@ A retro pixel-art platformer. Krystal runs across a city at sunset with her voll
 
 ## Play
 
-- **In a browser:** open `index.html` in a browser, or use the GitHub Pages link for this repo.
+**[▶ Play in your browser](https://krystalwiebelhaus-sw.github.io/krystals-adventure/)**
+
+- **From a copy of this repo:** open `index.html` in a browser.
 - **On a Mac:** double-click `Krystal's Adventure.app`.
 
 ## Controls
